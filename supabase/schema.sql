@@ -3,7 +3,8 @@
 -- Run this in the Supabase SQL Editor on a fresh project.
 -- ============================================================
 
-create extension if not exists "pgcrypto";
+create exten
+sion if not exists "pgcrypto";
 
 -- ------------------------------------------------------------
 -- Profiles (one row per user; created automatically on signup)
